@@ -8,8 +8,6 @@
 
 .benar-bg{
     background-image: url('../assets/Hero-bg.png');
-    max-width: 1250px;
-    height: 600px;
     background-position: center;
     margin-top: 45px;
 }
@@ -37,6 +35,7 @@
 .heading-description{
     margin: 0 150px 0 150px;
     padding: 15px;
+    margin: 0px 90px 0px 30px;
 }
 .common-color{
     font-weight: 500;
