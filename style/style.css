@@ -143,6 +143,17 @@ main a{
     color: white;
     padding: 10px 80px;
 }
-.input{
-
+.icon-style{
+    list-style: none;
+    display: flex;
+}
+.total-footar{
+    background-color: gray;
+}
+.footar-aria{
+    display: flex;
+    justify-content: space-between;
+    max-width: 850px;
+    margin: 0 auto;
+    margin-top: 50px;
 }
