@@ -62,7 +62,17 @@ main{
 .why-web-2{
     display: flex;
 }
+.video-section{
+    text-align: center;
+}
 .video-1{
-    width: 800px;
-    height: 350px;
+    width: 798px;
+    height: 480px;
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 0px 20px 20px 20px;
+    border-radius: 16px;
+}
+.tergets-section{
+    display: flex;
 }
